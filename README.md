@@ -33,3 +33,6 @@ Summary of the Skills:
     Creating usage funnels
     Analyzing user churn
 
+This Project takes approximately 6 weeks and provides 3 projects by the end of the lessons:
+
+
