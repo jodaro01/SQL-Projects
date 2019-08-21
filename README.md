@@ -36,3 +36,16 @@ Summary of the Skills:
 This Project takes approximately 6 weeks and provides 3 projects by the end of the lessons:
 
 
+Commands that are covert in this course: 
+
+SELECT
+INSERT
+CREATE
+ALTER
+UPDATE
+DELETE
+CONSTRAINTS
+
+
+
+
