@@ -1,0 +1,57 @@
+	
+	1. When starting at a company, the first thing I wanna do is:
+
+I want to become familiar with the company’s data, so she connects to the database and uses SQL to explore the database.
+
+	
+	2. I want to determine what percent of users make it through each step of the funnel so that I can recommend improvements to the website.
+
+I wanna combine three different tables which gives me: 
+
+	1. The timestemp of users who visited different item description pages. 
+	2. Use the checkout timestemp which provides me the users checkouts page.
+	3. An the timestamp of the purchase of users who make a successfull purchse though the website.
+
+These three different sheets will provide my a number of the user who checkout & who browse in percentage.
+
+	3. The next step will be, defining the chrun rate of the users who visited the website itself. 
+
+
+	Formular for the churn rate: 
+	
+	Cancelation divided by total subscribers = chrun rate in percentage
+  
+	
+	Determining Web traffic attribution
+	4. Now my boss wanna know, how the propects are finding the website by UTM parameters.
+	
+	The UTM paramparameters are a special tag which I use to know, which website the user have been before they came to my website. 
+	
+	The utm source tells me exactly from which source my visitor came from.
+	
+	
+	Disclaimer: 
+	
+	A relational database is a database that organizes information into one or more tables. Here, the relational database contains one table. 
+	A table is a collection of data organized into rows and columns. Tables are sometimes referred to as relations. Here the table is celebs. 
+	A column is a set of data values of a particular type. Here, id, name, and age are the columns. 
+	A row is a single record in a table. The first row in the celebs table has:
+		• An id of 1
+		• A name of Justin Bieber
+		• An age of 22
+	
+  All data stored in a relational database is of a certain data type. Some of the most common data types are: 
+		• INTEGER, a positive or negative whole number
+		• TEXT, a text string
+		• DATE, the date formatted as YYYY-MM-DD
+		• REAL, a decimal value
+	
+	
+	
+	
+	
+	
+
+
+
+
