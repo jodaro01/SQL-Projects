@@ -23,3 +23,13 @@ Analyze Real Data with SQL
 
 combine everything that I will learned to solve real business problems.
 
+Summary of the Skills:
+
+
+    Writing basic queries
+    Calculating aggregates
+    Combining data from multiple tables
+    Determining web traffic attribution
+    Creating usage funnels
+    Analyzing user churn
+
